@@ -1,4 +1,4 @@
-<img width="160" height="160" alt="pixel-art-1778200114110" src="https://github.com/user-attachments/assets/f2a653ce-225a-461b-8eb3-96143bf0fcb5" />
+<img width="80" height="80" alt="pixel-art-1778200114110" src="https://github.com/user-attachments/assets/f2a653ce-225a-461b-8eb3-96143bf0fcb5" />
 ## Hi there 👋
 
 <!--
