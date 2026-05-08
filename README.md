@@ -1,5 +1,5 @@
 <img width="80" height="80" alt="pixel-art-1778200114110" src="https://github.com/user-attachments/assets/f2a653ce-225a-461b-8eb3-96143bf0fcb5" />
-## Hi there 👋
+Hello
 
 <!--
 **Lukas-Landwehr/Lukas-Landwehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
